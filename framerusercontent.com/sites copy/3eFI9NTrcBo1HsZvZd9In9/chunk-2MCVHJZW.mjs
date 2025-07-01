@@ -1,2 +1,0 @@
-function e(t,a){return{description:"Portfolite is a sleek and professionally designed portfolio template for Framer, built to help creatives and professionals showcase their work effortlessly. With its modern aesthetics and seamless functionality.",favicon:"https://framerusercontent.com/assets/1Fpy3w9PoERri2J1TNuQ85aoJ0Q.png",robots:"max-image-preview:large",socialImage:"https://framerusercontent.com/assets/95dUNcvR4MKvuWP9eFVbpV8No0.png",title:"Portfolite \u2013 Framer Portfolio Template"}}export{e as a};
-//# sourceMappingURL=chunk-2MCVHJZW.mjs.map
